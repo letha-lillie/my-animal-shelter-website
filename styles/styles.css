@@ -1,0 +1,31 @@
+.column {
+  width: 44%;
+  display: inline-block;
+  vertical-align: top;
+  padding: 15px;
+}
+
+img {
+  width: 259px;
+}
+
+.pink {
+  color: #BA55D3;
+
+}
+
+h1 {
+  color: #4B0082;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+}
+
+h2 {
+
+}
+
+h3 {
+  color: #7B68EE;
+  font-style: italic;
+}
