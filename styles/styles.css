@@ -1,8 +1,13 @@
+body {
+  margin: 50px 80px 20px;
+}
+
 .column {
-  width: 44%;
+  width: 40%;
   display: inline-block;
   vertical-align: top;
-  padding: 15px;
+  padding: 30px;
+  column-gap: 40px;
 }
 
 img {
@@ -11,7 +16,10 @@ img {
 
 .pink {
   color: #BA55D3;
+}
 
+.bunnies {
+  color: #008B8B;
 }
 
 h1 {
